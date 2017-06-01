@@ -1,1 +1,7 @@
-
+div.homescroll{
+  overflow: auto;
+  white-space: nowrap;
+}
+div.homescroll a{
+  display: inline-block;
+}
