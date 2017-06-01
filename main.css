@@ -4,4 +4,7 @@ div.homescroll{
 }
 div.homescroll a{
   display: inline-block;
+  font-size: 8em;
+  padding: 40 px;
+  
 }
